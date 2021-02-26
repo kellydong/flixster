@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/RJxfO5NWfg.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+- I was having trouble changing the sizing of the collection view layout because I didn't turn the estimate size off
 
 ---
 
@@ -41,4 +41,4 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/7MbOrAUZrY.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+- Getting CocoaPods and AlamofireImage to work with Apple Silicon
